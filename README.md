@@ -1,4 +1,3 @@
-Aqui está um markdown estiloso e explicativo para o código que você forneceu, destacando os pontos principais e explicando cada parte:
 
 ```markdown
 # Projeto com ESP32 e Servidor Web para Controle de LED
